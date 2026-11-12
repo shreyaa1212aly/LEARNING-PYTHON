@@ -1,41 +1,40 @@
-# 🐍 LEARNING PYTHON
+# 🐍 LEARNING-PYTHON
 
-Welcome to my Python learning repository!
+Welcome to my Python learning journey!
 
-This repository documents my journey of learning Python, from fundamentals to practical projects.
+I'm learning Python through **freeCodeCamp** and using this repository to document my progress, practise concepts, and build projects along the way.
 
-## 📚 What I'm Learning
+## 📚 Learning Resource
 
-- Python Fundamentals
-- Variables and Data Types
-- Conditional Statements
-- Loops
-- Functions
-- Data Structures
-- Object-Oriented Programming
-- File Handling
-- Libraries and Modules
-- Practical Python Projects
+- [freeCodeCamp – Learn Python](https://www.freecodecamp.org/learn/)
 
-## 💻 Practice & Projects
+## 🎯 My Learning Goals
 
-This repository contains:
-- Daily Python practice
-- Coding exercises
-- Problem-solving solutions
-- Mini projects
-- Learning notes
+- Understand Python fundamentals.
+- Develop problem-solving skills.
+- Practise writing clean and readable code.
+- Work on hands-on coding exercises.
+- Build real-world Python projects.
 
-## 🎯 Goal
+## 📂 Repository Contents
 
-To build strong Python programming fundamentals and develop practical problem-solving skills through consistent practice.
+| Folder | Description |
+|---|---|
+| Basics | Python fundamentals |
+| Practice | Coding exercises |
+| Projects | Hands-on projects |
+| Notes | Concepts and useful references |
 
-## 🛠️ Tools
+*Folders will be added as I progress.*
+
+## 🛠️ Tools I'm Using
 
 - Python
 - VS Code
-- Git & GitHub
+- Git
+- GitHub
+
 
 ---
 
-*Learning, building, and improving one line of code at a time.* 🚀
+**One step at a time. Learning by coding, practising, and building!** 💻
